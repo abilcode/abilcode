@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**abilcode/abilcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hello All... 
 My name is Muhammad Nabil Fadhlurrahman, you can call me abil.
