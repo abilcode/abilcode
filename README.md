@@ -6,5 +6,5 @@ Hello All...
 <li>🌱 I’m currently learning Applied Mathematics, Statistics, Data Science, and Machine Learning</li>
 <li>👯 I’m looking to collaborate on field related to Health Informarics and Social analysis</li>
 <li>💬 Ask me about Data Science or Mathematics related stuff</li>
-<li>📫 Reach me on: Linkedin : https://www.linkedin.com/in/muhammad-nabil-fadurrahman-42381918b/</li>
+<li>📫 Reach me on: Linkedin : https://www.linkedin.com/in/abilcode/</li>
   </ul>
