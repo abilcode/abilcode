@@ -9,4 +9,4 @@ Hello All...
 <li>📫 Reach me on: Linkedin : https://www.linkedin.com/in/abilcode/</li>
   </ul>
 
-[embed]https://drive.google.com/file/d/1zCFIF6_H1FxNph526_vxsdljd4WOxI7H/view?usp=sharing[/embed]
+[embed]https://github.com/abilcode/abilcode/blob/main/CV%20Muhammad%20Nabil%20Fadhlurrahman.docx%20(1).pdf[/embed]
