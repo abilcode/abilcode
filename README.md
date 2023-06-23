@@ -9,4 +9,4 @@ Hello All...
 <li>📫 Reach me on: Linkedin : https://www.linkedin.com/in/abilcode/</li>
   </ul>
 <a href="https://github.com/abilcode/abilcode/blob/main/CV%20Muhammad%20Nabil%20Fadhlurrahman.docx%20(1).pdf">CV LINK</a>
-https://docs.google.com/viewer?url=$https://github.com/abilcode/abilcode/blob/main/CV%20Muhammad%20Nabil%20Fadhlurrahman.docx%20(1).pdf
+https://docs.google.com/viewer?url=https://github.com/abilcode/abilcode/blob/main/CV%20Muhammad%20Nabil%20Fadhlurrahman.docx%20(1).pdf
