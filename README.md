@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abilcode@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/abilcode/abilcode/blob/main/CV%20Muhammad%20Nabil%20Fadhlurrahman.docx%20(1).pdf](https://github.com/abilcode/abilcode/blob/main/CV%20Muhammad%20Nabil%20Fadhlurrahman.docx%20(1).pdf)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I think Im quite funny, Math student who more of a engineer type of person**
 
